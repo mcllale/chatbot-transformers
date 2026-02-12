@@ -28,7 +28,7 @@ An AI chatbot processes text input and generates meaningful replies. This projec
 - Hugging Face Transformers
 - TensorFlow or PyTorch
 - Google Colab
-- Flask or FastAPI
+- FastAPI
 
 ## Dataset options
 - Custom FAQ datasets in CSV or JSON
